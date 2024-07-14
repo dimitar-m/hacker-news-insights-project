@@ -8,6 +8,7 @@ Key Questions Addressed:
 Do “Ask HN” or “Show HN” posts receive more comments on average?
 Do posts created at certain times receive more comments or points on average?
 How do other types of posts compare in terms of engagement?
+
 Dataset Overview:
 
 Total Rows: 20,100
